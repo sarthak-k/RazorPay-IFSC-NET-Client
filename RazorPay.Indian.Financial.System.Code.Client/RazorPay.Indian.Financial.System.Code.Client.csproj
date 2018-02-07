@@ -5,6 +5,9 @@
     <Authors>Sarthak Killedar</Authors>
     <PackageTags>razorPay IFSC, Client</PackageTags>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageId>RazorPay.IFSC.Client</PackageId>
+    <Product>RazorPay IFSC Client</Product>
+    <Description>.NET Implementation of https://ifsc.razorpay.com/</Description>
   </PropertyGroup>
 
   <ItemGroup>
