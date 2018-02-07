@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPay.Indian.Financial.System.Code.Shared", "RazorPay.Indian.Financial.System.Code.Shared\RazorPay.Indian.Financial.System.Code.Shared.csproj", "{0504ADBA-75E7-4A63-ACBB-D93C20CB7E43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPay.Indian.Financial.System.Code.Client", "RazorPay.Indian.Financial.System.Code.Client\RazorPay.Indian.Financial.System.Code.Client.csproj", "{56AC9F59-CA60-4DCB-BD4A-E171E1B2EA23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{A2928192-3CD0-4B3E-8811-008463C667D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{B7AC8915-195D-4711-8860-8C6BE59BD627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPay.Indian.Financial.System.Code.Tests", "RazorPay.Indian.Financial.System.Code.Tests\RazorPay.Indian.Financial.System.Code.Tests.csproj", "{527437DE-7FE4-4513-8337-987E85424D22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0504ADBA-75E7-4A63-ACBB-D93C20CB7E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0504ADBA-75E7-4A63-ACBB-D93C20CB7E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0504ADBA-75E7-4A63-ACBB-D93C20CB7E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0504ADBA-75E7-4A63-ACBB-D93C20CB7E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AC9F59-CA60-4DCB-BD4A-E171E1B2EA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AC9F59-CA60-4DCB-BD4A-E171E1B2EA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AC9F59-CA60-4DCB-BD4A-E171E1B2EA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AC9F59-CA60-4DCB-BD4A-E171E1B2EA23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527437DE-7FE4-4513-8337-987E85424D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527437DE-7FE4-4513-8337-987E85424D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527437DE-7FE4-4513-8337-987E85424D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527437DE-7FE4-4513-8337-987E85424D22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0504ADBA-75E7-4A63-ACBB-D93C20CB7E43} = {A2928192-3CD0-4B3E-8811-008463C667D6}
+		{56AC9F59-CA60-4DCB-BD4A-E171E1B2EA23} = {A2928192-3CD0-4B3E-8811-008463C667D6}
+		{527437DE-7FE4-4513-8337-987E85424D22} = {B7AC8915-195D-4711-8860-8C6BE59BD627}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8A19748-6F0A-4B39-B9EA-B13287706165}
+	EndGlobalSection
+EndGlobal
