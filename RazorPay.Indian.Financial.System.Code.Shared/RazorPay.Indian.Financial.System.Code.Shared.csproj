@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>RazorPay.IFSC.Client.Shared</PackageId>
+    <Authors>Sarthak Killedar</Authors>
+    <Company />
+    <Product>RazorPay.IFSC.Client.Shared</Product>
   </PropertyGroup>
 
   <ItemGroup>
